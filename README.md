@@ -4,7 +4,6 @@
   <p align="center">
     <a href="https://nasirkhan.dev" target="_blank">🌐 nasirkhan.dev</a> • 
     <a href="https://ai.nasirkhan.dev" target="_blank">✍️ Technical Blog</a> • 
-    <a href="https://space.nasirkhan.dev" target="_blank">🚀 Space Dashboard</a>
   </p>
 </div>
 

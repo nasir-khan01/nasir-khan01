@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Nasir+Khan;Senior+Software+Engineer;Full-stack+Architect;System+Design+%26+Scalability" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=42&pause=2000&color=1E293B&center=true&vCenter=true&width=800&lines=Nasir+Khan;Full-stack+Architect;Building+Scalable+Systems" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://nasirkhan.dev" target="_blank">🌐 nasirkhan.dev</a> • 
@@ -11,9 +11,10 @@
 ---
 
 ### 👨‍💻 Professional Profile
-I am a **Senior Full-Stack Developer** based in Jaipur with **4+ years of experience**. My expertise lies in building high-performance applications using **Node.js** and **React**, with a deep focus on clean code and scalable architecture.
+I am a **Senior Full-Stack Engineer** based in Jaipur with **4+ years of experience**. My expertise lies in architecting high-performance applications using **Node.js** and **React**, with a deep focus on system design, scalability, and clean code principles.
 
-- 🏗️ **Core Competency:** Backend Architecture, API Design, and Interactive Frontends.
+- 🏗️ **Focus:** Backend Architecture, API Design, and Interactive Systems.
+- 🎯 **Current Goal:** Transitioning into high-scale architectural roles.
 
 ---
 
@@ -21,23 +22,29 @@ I am a **Senior Full-Stack Developer** based in Jaipur with **4+ years of experi
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
+| **Languages** | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
 
-### 📂 Key Repositories & Contributions
-*Since much of my professional work is in private enterprise environments, I use this space to showcase my architectural philosophy and open-source experiments.*
+### 📂 Key Projects & Contributions
+*My GitHub serves as a sandbox for architectural patterns and open-source experiments. For a deep dive into my professional enterprise work, visit my portfolio.*
 
 > [!TIP]
-> Check out my **[Portfolio](https://nasirkhan.dev)** for a detailed look at my full-scale professional projects.
+> Explore the **[Space Dashboard](https://space.nasirkhan.dev)** — an interactive visualization of the Artemis II mission.
 
 ---
 
 ### 📖 Life Beyond the Code
-- 🏃‍♂️ **Running:** Training for endurance and discipline.
-- 📖 **Current Read:** *The Count of Monte Cristo* (Alexandre Dumas).
-- 🎮 **Gaming:** Currently exploring NYC in **Spider-Man 2** on PS5.
-- 🏯 **Slow Cinema:** Fan of Wim Wenders (*Perfect Days*).
+- 🏃‍♂️ **Running:** Focused on endurance training and maintaining a disciplined morning routine.
+- 📖 **Current Read:** *The Count of Monte Cristo* by Alexandre Dumas.
+- 🎮 **Gaming:** Currently swinging through NYC in **Spider-Man 2** on PS5.
+- 🏯 **Slow Cinema:** Enthusiast of Wim Wenders' work, specifically *Perfect Days*.
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nasirkhan&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=475569" alt="GitHub Stats" />
+</div>

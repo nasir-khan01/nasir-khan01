@@ -29,11 +29,12 @@ I am a **Senior Full-Stack Engineer** based in Jaipur with **4+ years of experie
 
 ---
 
-### 📂 Key Projects & Contributions
-*My GitHub serves as a sandbox for architectural patterns and open-source experiments. For a deep dive into my professional enterprise work, visit my portfolio.*
+### 📂 Projects & Contributions
+As a significant portion of my professional work resides in **private enterprise repositories**, my GitHub serves primarily as a space for architectural experiments and open-source explorations. 
 
-> [!TIP]
-> Explore the **[Space Dashboard](https://space.nasirkhan.dev)** — an interactive visualization of the Artemis II mission.
+
+> [!IMPORTANT]
+> To see my full-scale professional projects and personal portfolio, please visit **[nasirkhan.dev](https://nasirkhan.dev)**.
 
 ---
 
@@ -42,3 +43,9 @@ I am a **Senior Full-Stack Engineer** based in Jaipur with **4+ years of experie
 - 📖 **Current Read:** *The Count of Monte Cristo* by Alexandre Dumas.
 - 🎮 **Gaming:** Currently swinging through NYC in **Spider-Man 2** on PS5.
 - 🏯 **Slow Cinema:** Enthusiast of Wim Wenders' work, specifically *Perfect Days*.
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nasirkhan&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=475569" alt="GitHub Stats" />
+</div>

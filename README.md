@@ -42,9 +42,3 @@ I am a **Senior Full-Stack Engineer** based in Jaipur with **4+ years of experie
 - 📖 **Current Read:** *The Count of Monte Cristo* by Alexandre Dumas.
 - 🎮 **Gaming:** Currently swinging through NYC in **Spider-Man 2** on PS5.
 - 🏯 **Slow Cinema:** Enthusiast of Wim Wenders' work, specifically *Perfect Days*.
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nasirkhan&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=475569" alt="GitHub Stats" />
-</div>
